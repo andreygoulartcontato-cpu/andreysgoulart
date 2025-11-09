@@ -1,9 +1,7 @@
-<!-- Banner de boas-vindas -->
-<h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=4000&pause=800&color=3DC2FF&center=true&vCenter=true&width=600&lines=👋+Olá,+eu+sou+o+Andrey+Goulart!;🚀+Bem-vindo+ao+meu+perfil+GitHub!" alt="animated header"/>
-  </a>
-</h1>
+<!-- Animação de saudação -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=550&lines=👋+Olá,+eu+sou+o+Andrey+Goulart!;🎓+Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;💡+Apaixonado+por+Tecnologia+e+Inovação!" alt="Typing SVG" />
+</p>
 
   🎓 **Estudante de Análise e Desenvolvimento de Sistemas (Uniasselvi)**  
   💼 Experiência em **suporte técnico, automação de processos e validação de dados**  
