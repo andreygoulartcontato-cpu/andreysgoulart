@@ -17,8 +17,7 @@
   <img src="https://img.shields.io/github/followers/andreysgoulart?style=for-the-badge&logo=github" alt="Followers" />
   <img src="https://img.shields.io/badge/Status-Online-success?style=for-the-badge" alt="Status" />
 </p>
-  ---
-  
+ 
   ## 🚀 Sobre mim  
   Sou um profissional em formação na área de TI, com vivência em ambientes corporativos e foco em resolver problemas através da tecnologia.  
   Atuo com **processos digitais, infraestrutura e automação**, sempre buscando aprender e aplicar soluções práticas que gerem resultados.  
