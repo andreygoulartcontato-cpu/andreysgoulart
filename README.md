@@ -1,7 +1,7 @@
 <!-- Animação de saudação -->
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Bungee+Inline&size=28&duration=3000&pause=1000&color=56009F&center=true&vCenter=true&width=600&lines=👋+Sejam+Bem-vindos;Me+chamo+Andrey+Goulart+🤓☝️"
+    src="https://readme-typing-svg.demolab.com?font=Bungee+Inline&size=28&duration=3000&pause=1000&color=56009F&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Sejam+Bem-vindos;Me+chamo+Andrey+Goulart+%F0%9F%A4%93%E2%98%9D%EF%B8%8F"
     alt="Typing SVG"
   />
 </a>
