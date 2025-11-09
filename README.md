@@ -10,7 +10,7 @@
   💼 Experiência em **suporte técnico, automação de processos e validação de dados**  
   💡 Apaixonado por **tecnologia, inovação e eficiência digital**  
   📍 **São Leopoldo/RS - Brasil**
-
+  ---
 <!-- Contadores e badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=andreysgoulart&label=Visualizações%20do%20perfil&color=blueviolet&style=for-the-badge" alt="Profile Views" />
