@@ -1,5 +1,9 @@
 <!-- Banner de boas-vindas -->
-<h1 align="center">👋 Olá, eu sou o <span style="color:#00BFFF">Andrey Goulart</span>!</h1>
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=4000&pause=800&color=3DC2FF&center=true&vCenter=true&width=600&lines=👋+Olá,+eu+sou+o+Andrey+Goulart!;🚀+Bem-vindo+ao+meu+perfil+GitHub!" alt="animated header"/>
+  </a>
+</h1>
 
   🎓 **Estudante de Análise e Desenvolvimento de Sistemas (Uniasselvi)**  
   💼 Experiência em **suporte técnico, automação de processos e validação de dados**  
