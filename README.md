@@ -1,7 +1,5 @@
 <!-- Animação de saudação -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=550&lines=👋+Olá,+eu+sou+o+Andrey+Goulart!;🎓+Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;💡+Apaixonado+por+Tecnologia+e+Inovação!" alt="Typing SVG" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=56009F&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+Andrey+Goulart" alt="Typing SVG" /></a>
 
   🎓 **Estudante de Análise e Desenvolvimento de Sistemas (Uniasselvi)**  
   💼 Experiência em **suporte técnico, automação de processos e validação de dados**  
